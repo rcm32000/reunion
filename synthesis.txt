@@ -1,0 +1,14 @@
+What do you think we were trying to get you to learn with this challenge?
+  How classes interact with each other.
+
+
+Outline in words (at least 5-6 sentences) what your code is doing in order to solve this problem.
+  My code is creating a collection of activity hashes, that the reunion class calls on.
+  Allowing the ability to pull out totals or each individual piece, depending on what is
+  needed.
+
+What was the most difficult portion of this for you?
+  I did not get to the ERB section, which was the most intimidating thing about this project.
+
+What came naturally to you?
+  Manipulating data to get the piece I wanted from a collection.
