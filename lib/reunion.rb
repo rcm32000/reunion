@@ -25,6 +25,5 @@ class Reunion < Activity
   end
 
   def member_due(name)
-    binding.pry
   end
 end

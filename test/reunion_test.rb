@@ -75,11 +75,11 @@ class ReunionTest < Minitest::Test
     hiking.add_participant('Rob')
     hiking.add_participant('Tristan')
     cycling.add_participant('Rob')
-
     assert_equal 40, reunion.total_cost
   end
 
   def test_total_cost_due_by_member
+    skip
     reunion = Reunion.new
     hiking = Activity.new(10)
     cycling = Activity.new(20)
